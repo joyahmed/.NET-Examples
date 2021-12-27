@@ -1,0 +1,24 @@
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.deps.json
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.runtimeconfig.json
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.runtimeconfig.dev.json
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.dll
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.pdb
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.csprojResolveAssemblyReference.cache
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.csproj.CoreCompileInputs.cache
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.AssemblyInfoInputs.cache
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.AssemblyInfo.cs
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.dll
+F:\Shanu\VS2017\ASPNETCOREUserIdentity\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.pdb
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.deps.json
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.runtimeconfig.json
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.runtimeconfig.dev.json
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.dll
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\bin\Debug\netcoreapp2.0\ASPNETCORERoleManagement.pdb
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.csprojAssemblyReference.cache
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.csproj.CoreCompileInputs.cache
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.AssemblyInfoInputs.cache
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.AssemblyInfo.cs
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.dll
+E:\ASP.NET Projects\Examples\ASPNETCORERoleManagement\ASPNETCORERoleManagement\obj\Debug\netcoreapp2.0\ASPNETCORERoleManagement.pdb

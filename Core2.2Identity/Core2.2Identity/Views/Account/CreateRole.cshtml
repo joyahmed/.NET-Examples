@@ -1,0 +1,27 @@
+﻿@model CreateRoleViewModel
+
+@{
+    ViewData["Title"] = "Create Role";
+    Layout = "_Layout";
+}
+
+
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger mx-auto"></div>
+    <div class="login-form">
+        <div class="sign-in-htm">
+            <div class="group">
+                <label asp-for="RoleName" for="user" class="label">Email</label>
+                <input asp-for="RoleName" type="text" class="input">
+                <span asp-validation-for="RoleName" class="text-danger"></span>
+            </div>
+            <div class="group">
+                <input type="submit" class="button" value="Create Role">
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

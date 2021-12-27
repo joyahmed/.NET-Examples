@@ -1,0 +1,50 @@
+﻿@model FormsWithCore.Models.Account
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form method="post" asp-controller="account" asp-action="save">
+        <table cellpadding="2" cellspacing="2">
+            <tr>
+                <td>Username</td>
+                <td>
+                    <input asp-for="UserName" />
+                </td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>
+                    <input asp-for="Password" type="password" />
+                </td>
+            </tr>
+            <tr>
+                <td valign="top">Description</td>
+                <td>
+                    <textarea asp-for="Description" cols="20" rows="5"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>
+                    <input asp-for="Status" type="checkbox" />
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;:</td>
+                <td>
+                    <input type="submit" value="Save" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

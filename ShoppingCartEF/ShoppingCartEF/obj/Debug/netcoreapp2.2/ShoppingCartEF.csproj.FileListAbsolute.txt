@@ -1,0 +1,5 @@
+D:\Projects\ASP.NET Projects\Examples\ShoppingCartEF\ShoppingCartEF\obj\Debug\netcoreapp2.2\ShoppingCartEF.csprojAssemblyReference.cache
+D:\Projects\ASP.NET Projects\Examples\ShoppingCartEF\ShoppingCartEF\obj\Debug\netcoreapp2.2\ShoppingCartEF.RazorAssemblyInfo.cache
+D:\Projects\ASP.NET Projects\Examples\ShoppingCartEF\ShoppingCartEF\obj\Debug\netcoreapp2.2\ShoppingCartEF.RazorAssemblyInfo.cs
+D:\Projects\ASP.NET Projects\Examples\ShoppingCartEF\ShoppingCartEF\obj\Debug\netcoreapp2.2\ShoppingCartEF.AssemblyInfoInputs.cache
+D:\Projects\ASP.NET Projects\Examples\ShoppingCartEF\ShoppingCartEF\obj\Debug\netcoreapp2.2\ShoppingCartEF.AssemblyInfo.cs

@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Result</title>
+</head>
+<body>
+    <table cellpadding="2" cellspacing="2">
+        <tr>
+            <td>Username</td>
+            <td>
+                @ViewBag.account.UserName
+            </td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td>
+                @ViewBag.account.Password
+            </td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>
+                @ViewBag.account.Description
+            </td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>
+                @ViewBag.account.Status
+            </td>
+        </tr>
+
+    </table>
+</body>
+</html>
